@@ -1,0 +1,16 @@
+#+TITLE: Captain Contrary
+
+
+[[file:ep2.org][Episode 2 - 1929 Permanent Apportionment Act]]
+
+#+BEGIN_EXPORT html
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@CaptainContrary:5/episode2:93?r=9TqveqdEUwRGHQGPot1YxqRqR1xhk2h1" allowfullscreen></iframe>
+#+END_EXPORT
+
+
+[[file:ep1.org][Epsiode 1- Trump, Gary North, and Matthew 5:43-44]]
+ 
+#+BEGIN_EXPORT html
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/$/embed/@CaptainContrary:5/ep1:5451?r=9TqveqdEUwRGHQGPot1YxqRqR1xhk2h1" allowfullscreen></iframe>
+#+END_EXPORT
+
