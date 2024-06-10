@@ -13,7 +13,7 @@
        (list "Captain Contrary"
 	     :recursive t
 	     :base-directory "./org"
-	     :publishing-directory "./public"
+	     :publishing-directory "./docs"
 	     :publishing-function 'org-html-publish-to-html
 	     :with-author nil
 	     :with-creator t
