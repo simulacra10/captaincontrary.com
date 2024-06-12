@@ -41,11 +41,11 @@ commit_to_git
 deploy_site() {
     while true; do
         read -p "Do you want to deploy the site? (yes/no): " deploy_answer
-        if [ "$deploy_answer" == "yes" ]; then
-            scp -r ./public root@captaincontrary.com:/var/www/captaincontrary.com
+        if [ "$deploy_answer" = "yes" ]; then
+            scp -r ./public/. root@172.104.28.210:/var/www/captaincontrary.com
             echo "Deployment complete."
             return 0
-        elif [ "$deploy_answer" == "no" ]; then
+        elif [ "$deploy_answer" = "no" ]; then
             echo "Skipping deployment."
             return 1
         else
