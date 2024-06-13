@@ -1,7 +1,7 @@
 #!/bin/sh
-echo "Starting the build process..."
+#echo "Starting the build process..."
 
-emacs -Q --script buildsite.el
+#emacs -Q --script buildsite.el
 
 
 echo "Build process complete."
@@ -42,7 +42,7 @@ deploy_site() {
     while true; do
         read -p "Do you want to deploy the site? (yes/no): " deploy_answer
         if [ "$deploy_answer" = "yes" ]; then
-            scp -r ./public/. root@172.104.28.210:/var/www/captaincontrary.com
+            scp -rp .www/public/. root@172.104.28.210:/var/www/captaincontrary.com
             echo "Deployment complete."
             return 0
         elif [ "$deploy_answer" = "no" ]; then

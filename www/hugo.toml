@@ -1,0 +1,15 @@
+baseURL = 'https://captaincontrary.com/'
+languageCode = 'en-us'
+title = 'Captain Contrary'
+
+theme = 'hyde'
+
+[params]
+  description = "Your custom description"
+ 
+
+[Menus]
+  main = [
+      {Name = "Odysee", URL = "https://odysee.com/@CaptainContrary:5"},
+      {Name = "Episode Archive", URL = "https://archive.org/details/captain_contrary"}
+  ]
