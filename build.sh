@@ -6,6 +6,18 @@
 
 echo "Build process complete."
 
+echo "Build hugo."
+# Navigate to the www directory
+cd www
+
+# Build the Hugo site
+echo "Building the Hugo site..."
+hugo
+
+# Return to the directory above www
+cd ..
+ 
+
 # Function to prompt the user for a commit message and confirmation
 commit_to_git() {
     while true; do
