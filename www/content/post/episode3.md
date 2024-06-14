@@ -4,7 +4,8 @@ date = 2024-06-13
 draft = false
 +++
 
-{{< odysee "https://odysee.com/@CaptainContrary:5/ep3:31" >}}
+{{< youtube jhfRFakCa1I >}}
+
 
 Former president Donald Trump has expressed interest in ending the Income Tax. The Captain responds to this breaking news.
 
