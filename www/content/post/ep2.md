@@ -1,6 +1,6 @@
 +++
 title = 'Episode 2 - The 1929 Permanent Aportionment Act'
-date = 2024-06-13T19:06:06-04:00
+date = 2024-06-09
 draft = false
 +++
 
