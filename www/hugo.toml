@@ -5,9 +5,7 @@ title = 'Captain Contrary'
 theme = 'hyde'
 
 [params]
-  description = "An Anarcho Chrisitan navigating the world. Home of the Captain Contrary Show."
-
-[params.meta]
+  
     image = "https://res.cloudinary.com/dafjqauwb/image/upload/v1718319807/captain-contrary/captain-contrary330x330_wzxnk4.png"
     description = "An Anarcho Chrisitan navigating the world. Home of the Captain Contrary Show."
     keywords = "liberty, libertarianc, anarcho captialism, anarcho capitalist, patriot, second ammendment, constitution, patriot, boogaloo, the boog, austrian economics,  "
