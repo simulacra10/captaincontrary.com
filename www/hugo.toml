@@ -14,5 +14,5 @@ theme = 'hyde'
   main = [
       {Name = "Odysee", URL = "https://odysee.com/@CaptainContrary:5"},
       {Name = "YouTube", URL = "https://youtube.com/@thecaptaincontraryshow"},
-      {Name = "Episode Archive", URL = "https://archive.org/details/captain_contrary"}
+      {Name = "Episode MP3 Archive", URL = "https://archive.org/details/captain_contrary"}
   ]
