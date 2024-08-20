@@ -1,13 +1,15 @@
 +++
 title = 'MD Delegates X'
 date = 2024-08-19T18:13:01-04:00
-draft = false
+draft = true
 +++
 
 
 This is a  list of Maryland House of Delegates and their known Twitter (X) accounts. 
 
 The list was revised as of 21:00 8/19/24
+
+I am working on the list and trying to confirm the validity. 
 
 ## Democrats
 | X Handle                | Name                     | District | County                  |
@@ -46,7 +48,7 @@ The list was revised as of 21:00 8/19/24
 | @TonyBridges            | Tony Bridges             | 41       | Baltimore City          |
 | @WendellBeitzel         | Wendell Beitzel          | 1A       | Garrett                 |
 | @AdrienneJones          | Adrienne A. Jones        | 10       | Baltimore County        |
-| @ShereeSampleHughes     | Sheree Sample-Hughes     | 37A      | Dorchester and Wicomico |
+| @DelegateSheree         | Sheree Sample-Hughes     | 37A      | Dorchester and Wicomico |
 | @LukeClippinger         | Luke H. Clippinger       | 46       | Baltimore City          |
 | @EricLuedtke            | Eric G. Luedtke          | 14       | Montgomery              |
 | @KumarBarve             | Kumar P. Barve           | 17       | Montgomery              |
