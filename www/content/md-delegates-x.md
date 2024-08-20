@@ -7,55 +7,59 @@ draft = false
 
 This is a  list of Maryland House of Delegates and their known Twitter (X) accounts. 
 
+The list was revised as of 21:00 8/19/24
+
 ## Democrats
-| Delegate Name                | X Handle                 | District | County                       |
-|------------------------------|--------------------------|----------|------------------------------|
-| Vanessa E. Atterbeary        | @DelegateAtterbeary      | 13       | Howard                       |
-| Brian M. Crosby              | @DelegateCrosby          | 29B      | St. Mary's                   |
-| Charlotte Crutchfield        | @DelegateCrutchfield     | 19       | Montgomery                   |
-| Bonnie Cullison              | @DelegateCullison        | 19       | Montgomery                   |
-| Debra Davis                  | @DelegateDavis           | 28       | Charles                      |
-| Eric Ebersole                | @DelegateEbersole        | 44A      | Baltimore                    |
-| Mark Edelson                 | @DelegateEdelson         | 46       | Baltimore City               |
-| Elizabeth Embry              | @DelegateEmbry           | 43A      | Baltimore City               |
-| Kris Fair                    | @DelegateFair            | 3        | Frederick                    |
-| Jessica Feldmark             | @DelegateFeldmark        | 12A      | Howard                       |
-| Diana M. Fennell             | @DelegateFennell         | 47A      | Prince George's              |
-| Linda Foley                  | @DelegateFoley           | 15       | Montgomery                   |
-| Catherine M. Forbes          | @DelegateForbes          | 43B      | Baltimore                    |
-| David Fraser-Hidalgo         | @DelegateFraserHidalgo   | 15       | Montgomery                   |
-| Brooke Grossman              | @DelegateGrossman        | 2B       | Washington                   |
-| Michele Guyton               | @DelegateGuyton          | 42B      | Baltimore                    |
-| Pam Lanman Guzzone           | @DelegateGuzzone         | 13       | Howard                       |
-| Kevin M. Harris              | @DelegateHarris          | 27A      | Charles/Prince George's      |
-| Andrea Fletcher Harrison     | @DelegateHarrison        | 24       | Prince George's              |
-| Shaneka Henson               | @DelegateHenson          | 30A      | Anne Arundel                 |
-| Terri L. Hill                | @DelegateHill            | 12A      | Howard                       |
-| Stephanie M. Smith           | @DelegateSmith           | 45       | Baltimore City               |
-| T. Andrian Boafo             | @DelegateBoafo           | 23       | Prince George's              |
-| Jazz M. Lewis                | @DelegateLewis           | 24       | Prince George's              |
-| Jheanelle K. Wilkins         | @DelegateWilkins         | 20       | Montgomery                   |
-| Anne Healey                  | @DelegateHealey          | 22       | Prince George's              |
-| Gabriel Acevero              | @DelegateAcevero         | 39       | Montgomery                   |
-| Dana Stein                   | @DelegateStein           | 11B      | Baltimore County             |
-| Heather Bagnall              | @DelegateBagnall         | 33       | Anne Arundel                 |
-| Marvin Holmes                | @DelegateHolmes          | 23B      | Prince George's              |
-| Nicole Williams              | @DelegateWilliams        | 22       | Prince George's              |
-| Tony Bridges                 | @DelegateBridges         | 41       | Baltimore City               |
-| Adrienne A. Jones            | @SpeakerJonesMD          | 10       | Baltimore County             |
-| Sheree Sample-Hughes         | @DelegateSampleHughes    | 37A      | Dorchester/Wicomico          |
-| Luke H. Clippinger           | @DelegateClippinger      | 46       | Baltimore City               |
-| Eric G. Luedtke              | @DelegateLuedtke         | 14       | Montgomery                   |
-| Kumar P. Barve               | @DelegateBarve           | 17       | Montgomery                   |
-| C.T. Wilson                  | @DelegateWilson          | 28       | Charles                      |
-| Benjamin T. Brooks           | @DelegateBrooks          | 10       | Baltimore County             |
-| Jared Solomon                | @DelegateSolomon         | 18       | Montgomery                   |
-| Lily Qi                      | @DelegateQi              | 15       | Montgomery                   |
-| Marc Korman                  | @DelegateKorman          | 16       | Montgomery                   |
-| Julie Palakovich Carr        | @DelegateCarr            | 17       | Montgomery                   |
-| Aaron Kaufman                | @DelegateKaufman         | 18       | Montgomery                   |
-| Emily Shetty                 | @DelegateShetty          | 18       | Montgomery                   |
-| Anne R. Kaiser               | @DelegateKaiser          | 14       | Montgomery                   |
+| X Handle                | Name                     | District | County                  |
+|-------------------------|--------------------------|----------|-------------------------|
+| @VanessaAtterbeary      | Vanessa E. Atterbeary    | 13       | Howard                  |
+| @BrianMCrosby           | Brian M. Crosby          | 29B      | St. Mary's              |
+| @CharlotteCrutchfield   | Charlotte Crutchfield    | 19       | Montgomery              |
+| @BonnieCullison         | Bonnie Cullison          | 19       | Montgomery              |
+| @DebraDavisMD           | Debra Davis              | 28       | Charles                 |
+| @EricEbersole           | Eric Ebersole            | 44A      | Baltimore               |
+| @MarkEdelson            | Mark Edelson             | 46       | Baltimore City          |
+| @ElizabethEmbry         | Elizabeth Embry          | 43A      | Baltimore City          |
+| @KrisFairMD             | Kris Fair                | 3        | Frederick               |
+| @JessicaFeldmark        | Jessica Feldmark         | 12A      | Howard                  |
+| @DianaMFennell          | Diana M. Fennell         | 47A      | Prince George's         |
+| @LindaFoleyMD           | Linda Foley              | 15       | Montgomery              |
+| @CatherineMForbes       | Catherine M. Forbes      | 43B      | Baltimore               |
+| @DavidFraserHidalgo     | David Fraser-Hidalgo     | 15       | Montgomery              |
+| @BrookeGrossman         | Brooke Grossman          | 2B       | Washington              |
+| @MicheleGuyton          | Michele Guyton           | 42B      | Baltimore               |
+| @PamLanmanGuzzone       | Pam Lanman Guzzone       | 13       | Howard                  |
+| @KevinMHarris           | Kevin M. Harris          | 27A      | Charles/Prince George's |
+| @AndreaFletcherHarrison | Andrea Fletcher Harrison | 24       | Prince George's         |
+| @ShanekaHenson          | Shaneka Henson           | 30A      | Anne Arundel            |
+| @TerriLHill             | Terri L. Hill            | 12A      | Howard                  |
+| @StephanieMSmith        | Stephanie M. Smith       | 45       | Baltimore City          |
+| @TAndrianBoafo          | T. Andrian Boafo         | 23       | Prince George's         |
+| @JazzMLewis             | Jazz M. Lewis            | 24       | Prince George's         |
+| @JheanelleWilkins       | Jheanelle K. Wilkins     | 20       | Montgomery              |
+| @AnneHealey             | Anne Healey              | 22       | Prince George's         |
+| @GabrielAcevero         | Gabriel Acevero          | 39       | Montgomery              |
+| @DanaStein              | Dana Stein               | 11B      | Baltimore County        |
+| @HeatherBagnall         | Heather Bagnall          | 33       | Anne Arundel            |
+| @MarvinHolmes           | Marvin Holmes            | 23B      | Prince George's         |
+| @NicoleWilliamsMD       | Nicole Williams          | 22       | Prince George's         |
+| @TonyBridges            | Tony Bridges             | 41       | Baltimore City          |
+| @WendellBeitzel         | Wendell Beitzel          | 1A       | Garrett                 |
+| @AdrienneJones          | Adrienne A. Jones        | 10       | Baltimore County        |
+| @ShereeSampleHughes     | Sheree Sample-Hughes     | 37A      | Dorchester and Wicomico |
+| @LukeClippinger         | Luke H. Clippinger       | 46       | Baltimore City          |
+| @EricLuedtke            | Eric G. Luedtke          | 14       | Montgomery              |
+| @KumarBarve             | Kumar P. Barve           | 17       | Montgomery              |
+| @CTWilson               | C.T. Wilson              | 28       | Charles                 |
+| @BenjaminBrooks         | Benjamin T. Brooks       | 10       | Baltimore County        |
+| @JaredSolomon           | Jared Solomon            | 18       | Montgomery              |
+| @LilyQi                 | Lily Qi                  | 15       | Montgomery              |
+| @MarcKorman             | Marc Korman              | 16       | Montgomery              |
+| @JuliePalakovichCarr    | Julie Palakovich Carr    | 17       | Montgomery              |
+| @AaronKaufmanMD         | Aaron Kaufman            | 18       | Montgomery              |
+| @EmilyShetty            | Emily Shetty             | 18       | Montgomery              |
+| @AnneRKaiser            | Anne R. Kaiser           | 14       | Montgomery              |
+|                         |                          |          |                         |
 
 ## Republicans
 
